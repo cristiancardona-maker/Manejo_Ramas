@@ -4,4 +4,4 @@ print("Hola", nombre)
 
 edad = int(input(edad))
 
-print("La edad es", edad)
+print("La edad es", edad, "años")
